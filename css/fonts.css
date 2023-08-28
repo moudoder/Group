@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap");
+@font-face {
+  font-family: 'Radiotechnika';
+  src: url("../fonts/RadiotechnikaRegular.woff2") format("woff2"), url("../fonts/RadiotechnikaRegular.woff") format("woff"), url("../fonts/RadiotechnikaRegular.svg#RadiotechnikaRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBVUEsdUZBQVk7QUFWWjtFQUNJLDRCQUE0QjtFQUM1QixzTUFFK0U7RUFDL0UsbUJBQW1CO0VBQ25CLGtCQUFrQjtFQUNsQixrQkFBa0IsRUFBQSIsImZpbGUiOiJmb250cy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAZm9udC1mYWNlIHtcclxuICAgIGZvbnQtZmFtaWx5OiAnUmFkaW90ZWNobmlrYSc7XHJcbiAgICBzcmM6IHVybCgnLi4vZm9udHMvUmFkaW90ZWNobmlrYVJlZ3VsYXIud29mZjInKSBmb3JtYXQoJ3dvZmYyJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9SYWRpb3RlY2huaWthUmVndWxhci53b2ZmJykgZm9ybWF0KCd3b2ZmJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9SYWRpb3RlY2huaWthUmVndWxhci5zdmcjUmFkaW90ZWNobmlrYVJlZ3VsYXInKSBmb3JtYXQoJ3N2ZycpO1xyXG4gICAgZm9udC13ZWlnaHQ6IG5vcm1hbDtcclxuICAgIGZvbnQtc3R5bGU6IG5vcm1hbDtcclxuICAgIGZvbnQtZGlzcGxheTogc3dhcDtcclxufVxyXG5cclxuQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9RXhvKzI6d2dodEA0MDA7NzAwJmRpc3BsYXk9c3dhcCcpO1xyXG4vLyBmb250LWZhbWlseTogJ0V4byAyJywgc2Fucy1zZXJpZjsiXX0= */
